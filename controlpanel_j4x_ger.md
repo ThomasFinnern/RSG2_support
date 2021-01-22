@@ -2,6 +2,7 @@
 
 ## Übersicht
 
+![test](/Bilder/Build01.create.png)
  Auf dem RSGallery2 Desktop befinden sich folgende Buttons:
 
 (1.) Configuration; Manage Galleries; Upload; Manage Images; Maintenance
