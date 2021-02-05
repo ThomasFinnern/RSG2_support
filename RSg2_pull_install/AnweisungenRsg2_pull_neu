@@ -1,7 +1,12 @@
 ## Github fetch
 
 
-![github.fetch](githup_fetch.png)
+![github.fetch](github.fetch.png)
+
+Updates your local repository but does not change
+the code you are working on
+
+(1) click on fetch origin
 
 
  <P>&nbsp
@@ -9,9 +14,13 @@
 ## Github pull
 
 
-![github.pull](githup.pull.png)
+![github.pull](github.pull.png)
 
- <P>&nbsp
+
+Updates your local repository  and merges new code
+with old work
+
+ (1) click on pull origin button
 
 
 ## Build create
@@ -20,34 +29,81 @@
 
  <P>&nbsp
 (1)   * open the directory RSGallery2_J4_Dev
-     <br> * open the folder .build
 
-  (2) call file phing.build.comp.bat
+      * open the folder .build
+
+ (2)  call file phing.build.comp.bat
 
 ## Build result
 
 ![Build02.result](Build.02.result.png)
 
- <P>&nbsp
+(1)    open the directory RSGallery2_J4_Dev
+       open the folder .packages
+
+(2)    mark the file rsgallery2.5.0.0.25_20201211
+
+**Don't close the explorer**
+<br>
+
 
 ## Build install
 
-![Build03.install](Build.03.install.png)
+open joomla4x/administrator/
+
+
+
+![Build.03a.install](Build.03a.install.png)
+
+choose Toggle Menue
+
+(1) System
+
+(2) Extensions
+
+ <P>
+
+
+
+
+**Upload Package file by using drag and drop**
+
+The drag and drop area is marked with dotted border
+
+(1) Drag and drop your selected zip file into
+(2) dotted border
+
+
+
+
+
+![Build.03b.install](Build.03d.install.png)
+
+
+**Result after installation the components**
+
+ ![Build.04.install](Build.04.install.png)
+
+
+after click on the **Control panel** button appears the
+
+to do : ab hier neue Datei (seperate)
+
+
+
+home page of Control Panel
+
+
+## Control Panel
+
+
+![control Panel](controlpanel02.png)
 
  <P>&nbsp
 
-## Controlpanel02
 
 
-![controlpanel02](controlpanel02.png)
-
- <P>&nbsp
-
-![2020-12-27 17_49_33-Control Panel - KInoportal - Administration](./2020-12-27 17_49_33-Control Panel - KInoportal - Administration-jpg)
-
-
-## ControlpanelRSgall
-
+##  Explanation Controlpanel RSgallery2
 
 ![controlpanelRSgall](Control_Panel_j4x.png)
 
@@ -113,11 +169,14 @@ Used external components
 
 Area where all the contributors to RSGallery2 are listed. See parts in image below.
 
-##  Control Panel
+##  Path to  Control Panel
+
+to do bild und nummern einfügen
+
 
 ![Control Panel](Controlpanel.png)
 
-Use toggle menue
+Use toggle menu
   choose points
 * components
 * RSGallery2
