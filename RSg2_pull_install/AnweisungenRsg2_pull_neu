@@ -46,14 +46,15 @@ with old work
 **Don't close the explorer**
 <br>
 
+--------------------------------------------------------------------------------------
+
 
 ## Build install
 
-open joomla4x/administrator/
-
-
 
 ![Build.03a.install](Build.03a.install.png)
+
+open joomla4x/administrator/
 
 choose Toggle Menue
 
@@ -68,27 +69,23 @@ choose Toggle Menue
 
 **Upload Package file by using drag and drop**
 
-The drag and drop area is marked with dotted border
-
-(1) Drag and drop your selected zip file into
-(2) dotted border
-
-
-
-
 
 ![Build.03b.install](Build.03d.install.png)
+
+The drag and drop area is marked with dotted border
+
+(1) Drag and drop your selected zip file into    
+(2) dotted border
+
 
 
 **Result after installation the components**
 
  ![Build.04.install](Build.04.install.png)
 
+the following explanations apply to the new file
 
 after click on the **Control panel** button appears the
-
-to do : ab hier neue Datei (seperate)
-
 
 
 home page of Control Panel
