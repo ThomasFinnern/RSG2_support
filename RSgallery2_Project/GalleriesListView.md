@@ -1,8 +1,9 @@
-# Galleries List View
+#  List View
 
-Gallery list columns
+## Gallery list columns
 
-![Gallery list columns](GalleriesListView.png)
+
+![Gallerylistcolumns](GalleriesListView.png)     
 
 (1) Select Gallery
 
@@ -52,7 +53,7 @@ ascending
 
 Creates a new gallery. Leads to edit view of the new selected image
 
-(2)  Actions
+(2) Click on the DropDown_Button Actions
 
 Actions on selected galleries
 
@@ -82,7 +83,7 @@ Move selected images into trashed items
 
 (8) Batch
 
-Uses the selected images  for the tasks in the batch form
+Uses the selected images for the tasks in the batch form
 
 Possible batch tasks:
 
@@ -126,3 +127,36 @@ Date, Author, Name, Status, Images, Access, Hits, ID
 (7) Limit per page
 
 It defines the count of galleries which will be shown on one page
+
+# How to delete galleries
+
+
+
+![GalleriesTrash_2](GalleryTrash_2.png)  
+
+(1) Select status
+
+All galleries will be shown
+
+(2) Select the appropriate gallery
+
+(3) choose Trash from the ListBox
+
+![delete](GalleryDelete.png)
+
+(1) Select trashed  
+
+(2) choose galleries
+
+(3) click on the button empty Trash
+
+
+
+## How to restore trashed Galleries
+
+![RebornGalleries](GalleryReborn.png)
+
+
+(1)  Select trashed gallery
+
+(2) choose Publish from the ListBox
