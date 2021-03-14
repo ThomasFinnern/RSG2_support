@@ -1,5 +1,8 @@
 manage_images
 
+## Image list colomns
+
+
 ![image_manage](manage_images.png)
 
 (1) The topmost rectangle selects all images which is useful for batch processing.
@@ -51,6 +54,8 @@ Count on views / appearances
 
 Internal ID of image for reference or matching in other list
 
+## Image(s) task buttons
+
 
 ![manage_action](manage_images_actions.png)
 
@@ -88,6 +93,8 @@ Possible batch tasks:
 - Copy image(s) to gallery
 - Add (change) properties to image(s)
 
+## Image(s) search options
+
 
 ![image_search](manage_images_search.png)
 
@@ -109,6 +116,8 @@ Defines the columns the list will be sorted by and also the direction
 (4) Limit per page
 
 It defines the count of images which will be shown on one page
+
+## Images: Batch process to add properties
 
 
 ![image_batch](manage_images_batch.png)
