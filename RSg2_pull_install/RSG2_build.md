@@ -2,6 +2,21 @@
 
 Clone this repository and the "sister" repository RSGallery2_J4_Dev to a folder side by side
 
+## check out repositories
+
+clone  following repositories
+https://github.com/RSGallery2/RSGallery2_J4
+https://github.com/RSGallery2/RSGallery2_J4_Dev
+
+The folders RSGallery2_J4 and RSGallery2_J4_Dev must live in the same folder side by side
+
+## Prepare Phing 
+
+Phing (Simple XML build files) and php must be installed before.
+
+Phing : [Phing web page](https://www.phing.info/)
+
+
 ## Example using github to download the actual updates
 
 ### Github fetch
@@ -20,11 +35,8 @@ Updates your local repository and merge new code with old work
 
 (1) click on pull origin button
 
-## Create Build
+## Create installation file (*-zip) with phing
 
-Phing (Simple XML build files) and php must be installed before.
-
-Phing : [Phing web page](https://www.phing.info/)
 
 ### Start Build
 
@@ -32,7 +44,7 @@ Phing : [Phing web page](https://www.phing.info/)
 
 (1) Open the directory RSGallery2_J4_Dev/.build
 
-(2) Call file phing.build.comp.bat
+(2) Call file phing.build.comp.bat or just call phing there
 
 ## Build result
 

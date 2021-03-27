@@ -40,7 +40,7 @@ View images list , create new images, edit image, publish ...
 
 (5) **Maintenance**
 
-For maintenance exist a "Repair Zone" where content can be checked for consistency, a "Danger zone" to remove the component and a Raw database zone" to see more content of gallery and images list.
+In maintenance exist a "Repair Zone" where content can be checked for consistency, a "Danger zone" to remove the component and a Raw database zone" to see more content of gallery and images list.
 
 (6) **External licenses**
 
