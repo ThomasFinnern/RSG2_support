@@ -1,6 +1,8 @@
 manage_images
 
-## Image list colomns
+## Image list columns
+
+[ ] ToDo: thomas: check and compare with J3x version (same folder) and images ...
 
 
 ![image_manage](manage_images.png)

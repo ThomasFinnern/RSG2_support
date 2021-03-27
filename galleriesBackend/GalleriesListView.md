@@ -2,6 +2,7 @@
 
 ## Gallery list columns
 
+[ ] ToDo: thomas: check and compare with J3x version (same folder) and images ...
 
 ![Gallerylistcolumns](GalleriesListView.png)     
 
@@ -96,7 +97,7 @@ See below
 
 # Galleries search options
 
-![Galleries search options](GalleriesSeach.png)
+![Galleries search options](GalleriesSearch.png)
 
 (1) Search
 
