@@ -1,3 +1,3 @@
 # RSG2_support
 
-# Files prepaired for RSGallery2 in the joomla System
+# Documantation files prepared for RSGallery2 gallery in the joomla! CMS 
