@@ -1,8 +1,8 @@
-# Control Panel RSGallery2
+![external_comonents](/images/2021/04/external_components.png)
+
+![external_comonents](/images/2021/04/external_components.png)# Control Panel RSGallery2
 
 ![controlpanelRSgall](Control_Panel_j4x.png)
-
-[ ] ToDo: Control_Panel_j4x.png "altes" bild ersetzen. (2) sollte aufgeklappt sein, (3) sollte auch bilder haben
 
 (1) Function buttons
 
@@ -19,6 +19,10 @@ A click on changelog tells about the last fixes and improvements of the RSG2 sou
 (5) Credits
 
 A click on credits opens an area where all the **contributors** to RSGallery2 are mentioned. More below
+
+(6) External licenses
+
+A click on external licenses tells about the used external components.
 
 ## Function buttons
 
@@ -46,23 +50,36 @@ In maintenance exist a "Repair Zone" where content can be checked for consistenc
 
 Used external components
 
-## RSGallery2 overview
+## RSGallery2 info
 
-[ ] ToDo: bild (wenig bis kein text)
 
-## Changelog
 
-[ ] ToDo: Image of changelog area
+## changelog
+
+![changelog](Control_Panel_changelog.png)
+
+
+
+
+
 
 This display above is just an example how it will look in the future (No changes before first release)
 
 [ ] ToDo: Thomas: Description of special elements
 
 - bugs
-- - improvements
+- improvements
 
 ## Credits
 
-[ ] ToDo: bild mit start der credits
+![Credits](Control_Panel_credits.png)
+
+
 
 Area where all the contributors to RSGallery2 are listed. See parts in image below.
+
+
+## External licenses
+![external_components](external_components.png)
+
+Used external components
