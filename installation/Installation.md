@@ -13,9 +13,9 @@
 
 
 
-Inside the assets you will find a zip file with a name like **RSGallery2_component  .zip
+Inside the assets you will find a zip file with a name like **RSGallery2_component.zip
 
-Download and install the newest zip file matching this name and a newer version number
+Download the latest zip file matching this name and a newer version number
 
 
 ![download](download_RSGallery2_component.png)
@@ -26,13 +26,18 @@ Download and install the newest zip file matching this name and a newer version 
 
 
 
-## Install RSGallery2 component
+## 2. Install RSGallery2 component
 
-RSGallery2 is installed like all other Joomla extensions. Log into the Administrator section, click on Extension > Manage - > Install
+RSGallery2 is installed like all other Joomla extensions. Log into the Administrator section, click on Extension. Select Upload package file.
+
+
 
 ![installation_component](installation_component.png)
 
-(1) Select 'Uploaded Package File' tab (2) Drag and drop the downloaded zip file into  the drop area.
+(1) Select 'Uploaded Package File' tab
+
+
+(2) Drag and drop the downloaded zip file into  the drop area.
 
 On successful uploaded you will get a messages similar to following image
 
