@@ -30,7 +30,44 @@ Resulting from:
 3. For each uploaded image the prozessbar shows the amount of uploaded Bytes.
 
 
-![properties Image](properties.png)
+![properties](properties_image.png)
 
-to do rotate u. tirel unfo ändern
-action entfernen
+
+
+(1) Title
+
+The title is preset on creation. It may be edited here. The title may be different to the uploaded image name when the name already existed. Then the next name already existed. The next free number is appended.
+
+(2) Select all
+
+All images will get a set hook in the box below the image. This can be used to delete, rotate or flip selected images.
+
+(3) Select images
+
+The image will get a set hook in the box below the image. This can be used to delete, rotate or flip selected images.
+
+
+## DropDownButton Rotate
+
+(4) Rotate left
+
+Rotates selected images 90 degrees against the clock.
+
+(5) Rotate right
+
+Rotates selected images 90 degrees with the clock.
+
+(6) Rotate 180 degrees
+
+Rotates selected images 180 degrees.
+
+(7) Flip horizontal
+
+Flips the selected images horizontal. The bits move from left to right.The bottom of images keeps being the bottom.
+
+(8) Flip vertical
+
+Flips the selected images vertical. The bits move from bottom to top.The left/right side of the images keeps being of the left/right side.
+
+
+(9) Close
