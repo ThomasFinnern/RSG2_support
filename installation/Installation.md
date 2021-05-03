@@ -41,4 +41,4 @@ RSGallery2 is installed like all other Joomla extensions. Log into the Administr
 
 On successful uploaded you will get a messages similar to following image
 
- // ToDO  Bild einfügen
+![ install_success](download_result.png)

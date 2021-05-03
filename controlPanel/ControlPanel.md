@@ -1,6 +1,5 @@
-![external_comonents](/images/2021/04/external_components.png)
 
-![external_comonents](/images/2021/04/external_components.png)# Control Panel RSGallery2
+![external_comonents](external_components.png)# Control Panel RSGallery2
 
 ![controlpanelRSgall](Control_Panel_j4x.png)
 
