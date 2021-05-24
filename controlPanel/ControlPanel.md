@@ -1,5 +1,5 @@
 
-![external_comonents](external_components.png)# Control Panel RSGallery2
+# Control Panel RSGallery2
 
 ![controlpanelRSgall](Control_Panel_j4x.png)
 
@@ -51,7 +51,7 @@ Used external components
 
 ## RSGallery2 info
 
-
+to Do : aufgeklapptes Bild einfügen 
 
 ## changelog
 

@@ -1,5 +1,11 @@
 # First steps (2) Upload images
 
+toDo Abschnitt nach upload in first steps verschieben. Bild: upload sollte als  (1)
+
+
+
+
+
 a) Prepare 2 images (example each image < 1MB)
 
 ## Select upload from
